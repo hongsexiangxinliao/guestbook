@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bold {
+	font-size: large;
+	font-style: normal;
+	font-weight: bold;
+	font-family: "微软雅黑", "黑体", sans-serif;
+	text-align: center;
+}
+.title{
+	background-color:#E9EDED;
+}
+  .inputname {
+	font-family: "思源黑体 CN Regular", "Source Han Sans Regular", "微软雅黑";
+	font-size:16px;
+	  
+}
+.thread_title {
+	font-family: "思源黑体 CN Regular", "Source Han Sans Regular", "微软雅黑";
+	font-size: medium;
+	color: #000;
+	background-color: #DBFFFF;
+}
+.thread_content {
+	font-family: "思源黑体 CN Regular", "Source Han Sans Regular", "微软雅黑";
+	font-size: large;
+	background-color: #DADADA;
+}
